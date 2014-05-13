@@ -1,4 +1,4 @@
-gmail_tools
+gmail-tools
 ===========
 
 A set of shorthands for using GMail without a mouse.
